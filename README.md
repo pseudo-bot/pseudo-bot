@@ -30,11 +30,16 @@
 <br />
 <br />
 
-### Stats
+### Stats:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pseudo-bot)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=pseudo-bot&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
+
+### Languages I use most:
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudo-bot)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 
 ### Connect with me:
