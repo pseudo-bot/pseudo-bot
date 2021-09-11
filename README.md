@@ -1,5 +1,13 @@
 ### Connect with me:
 
+[<img align="left" alt="Instagram" width="36px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
+
+[<img align="left" alt="LinkedIn" width="36px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+
+[<img align="left" alt="Twitter" width="36px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" />][twitter]
+
+[<img align="left" alt="Facebook" width="36px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-512.png" />][facebook]
+
 <br />
 
 ### Languages and Frameworks:
@@ -11,7 +19,6 @@
 <img align="left" alt="JavaScript" width="36px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" />
 
 <img align="left" alt="React" width="36px" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" />
-
 
 <img align="left" alt="C++" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-512.png" />
 
@@ -31,3 +38,11 @@
 <img align="left" alt="Sass" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" />
 
 <img align="left" alt="webpack" width="36px" src="https://img.icons8.com/color/48/000000/webpack.png" />
+
+
+
+
+[twitter]: https://twitter.com/shivamkr__
+[instagram]: https://www.instagram.com/_seevum/
+[linkedin]: https://www.linkedin.com/in/jas0210/
+[facebook]: https://www.facebook.com/shivamkr6174/
