@@ -1,3 +1,9 @@
+### About
+
+- Hey, am Shivam, currently a 2nd year undergrad at Birla Institute of Technology, Mesra.
+- Currently learning and exploring the intricacies of various web technologies.
+- Open for any collaborative work in web dev.
+
 ### Languages and Frameworks:
 
 <img align="left" alt="HTML5" width="36px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" />
