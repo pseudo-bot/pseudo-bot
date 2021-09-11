@@ -1,11 +1,5 @@
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Frameworks:
@@ -23,6 +17,8 @@
 
 <img align="left" alt="Python" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
 
+<br>
+<br>
 
 ### Tools:
 
@@ -35,5 +31,3 @@
 <img align="left" alt="Sass" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" />
 
 <img align="left" alt="webpack" width="36px" src="https://img.icons8.com/color/48/000000/webpack.png" />
-
-<img align="left" alt="styled-components" width="36px" src="https://miro.medium.com/max/636/1*7jRD5QhgARucFKvRHFxpOg.png" />
