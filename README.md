@@ -1,8 +1,10 @@
-### About
+## About
 
 - Hey, am Shivam, currently a 2nd year undergrad at Birla Institute of Technology, Mesra.
 - Currently learning and exploring the intricacies of various web technologies.
 - Open for any collaborative work in web dev.
+
+## Tech Stack
 
 ### Languages and Frameworks:
 
@@ -36,19 +38,17 @@
 <br />
 <br />
 
-### Stats:
+## Stats:
 
 [![](https://github-readme-stats.vercel.app/api?username=pseudo-bot&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
-### Languages I use most:
-
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudo-bot)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="Instagram" width="36px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" />][instagram]
 
