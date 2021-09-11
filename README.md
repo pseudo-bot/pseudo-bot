@@ -4,7 +4,6 @@
 - _**Currently learning and exploring the intricacies of various web technologies.**_
 - _**Open for any collaborative work in web dev.**_
 
-<br />
 
 ## Tech Stack
 
