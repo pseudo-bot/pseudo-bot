@@ -1,8 +1,8 @@
 ## About
 
-- Hey, am Shivam, currently a 2nd year undergrad at Birla Institute of Technology, Mesra.
+- _**Hey, am Shivam, currently a 2nd year undergrad at Birla Institute of Technology, Mesra.
 - Currently learning and exploring the intricacies of various web technologies.
-- Open for any collaborative work in web dev.
+- Open for any collaborative work in web dev.**_
 
 ## Tech Stack
 
