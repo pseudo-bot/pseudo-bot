@@ -1,9 +1,6 @@
 ## About
 
 - _**Sophomore at Birla Institute of Technology, Mesra.**_
-- _**Currently learning and exploring the intricacies of various web technologies.**_
-- _**Open for any collaborative work in web dev.**_
-
 
 ## Tech Stack
 
