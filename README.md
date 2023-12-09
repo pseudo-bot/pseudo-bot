@@ -58,5 +58,5 @@
 
 [twitter]: https://twitter.com/shivamkr__
 [instagram]: https://www.instagram.com/_seevum/
-[linkedin]: https://www.linkedin.com/in/jas0210/
+[linkedin]: https://www.linkedin.com/in/_seevum/
 [facebook]: https://www.facebook.com/shivamkr6174/
