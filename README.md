@@ -1,6 +1,6 @@
 ## About
 
-- _**Prefinal Year at Birla Institute of Technology, Mesra.**_
+- _**Final Year at Birla Institute of Technology, Mesra.**_
 
 ## Tech Stack
 
